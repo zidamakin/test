@@ -8,3 +8,5 @@ def squares_needed(grains):
             return 0
         if grains <= grains_in_square:
             return count
+
+squares_needed(86)        
